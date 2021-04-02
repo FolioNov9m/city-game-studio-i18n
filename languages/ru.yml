@@ -218,7 +218,7 @@ ru:
 
     Расширенный запуск разблокирует все функции с самого начала игры.
   LABEL_NUMBER_OF_PRODUCED_POINTS: Количество произведенных очков
-  LABEL_REQUIRE_FANBASE: Требуется %s вентиляторов для увеличения продаж.
+  LABEL_REQUIRE_FANBASE: Требуется %s фанатов для увеличения продаж.
   LABEL_MAINTENANCE: Техническое обслуживание
   LABEL_PLATFORM_COMPATIBILITY: Совместимость
   LABEL_DETAILS_MAIN: Игровые подробности
@@ -734,7 +734,7 @@ ru:
     [b]%s[/b]
   LABEL_CANT_PUBLISH_NEW_GAME: |
     Невозможно опубликовать новую игру.
-  LABEL_EDIT_GAME: Игровые предложения
+  LABEL_EDIT_GAME: Выступить издателем
   LABEL_EDIT_GAME_ANNOUNCE: |
     %s будет работать над следующей игрой %s.
   LABEL_EDIT_GAME_ANNOUNCE_BAD: |
@@ -916,7 +916,7 @@ ru:
   LABEL_MARKETING_SOCIALNETWORK_ITEM: Социальные сети
   LABEL_MARKETING_MAILINGLIST_ITEM: Новостная рассылка
   LABEL_SELF_PUBLISH: Создать игру
-  LABEL_TRADE_PUBLISH: Игровые издатели
+  LABEL_TRADE_PUBLISH: Контракты Издателей
   LABEL_HIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
     Привет,
 
@@ -1638,7 +1638,7 @@ ru:
     Теперь вы можете открыть для себя новые игровые жанры! Чтобы заработать очки
     опыта, нужно просто издавать игры.
   LABEL_UNLOCK_GAMEGENRE_DESCRIPTION_1: >
-    Заключить контракт
+    Выполнение контракта даёт деньги, опыт и подсказки для указанного жанра
 
   # Placeholder used for forms
   PLACEHOLDER_COMPANY_NAME: Название компании
